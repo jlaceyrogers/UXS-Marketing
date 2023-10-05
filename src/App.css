@@ -1,0 +1,15 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden; 
+}
+div > a {
+  margin: 0 10px; 
+  font-size: 1.5rem; 
+  color: white;
+  text-decoration: none; 
+}
+
+div > a:hover {
+  text-decoration: underline;
+}
